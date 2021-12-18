@@ -12,8 +12,12 @@ date 2021-12-18
 
 creating a new branch is quick.
 add by wangxw 
+<<<<<<< HEAD
 date 2021-12-18
 
 add a branch is quick & simple.
 add by wangxw
 date 2021-12-18
+
+date 2021-12-20
+feature1
